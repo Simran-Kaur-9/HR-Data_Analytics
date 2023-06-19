@@ -2,7 +2,7 @@
 A Tableau based HR Data Analytics project.
 
 
-## Probelm Statement
+## Problem Statement
 1) Group size and demographics: <br>
 a) How many employees are currently employed by each department? <br>
 b) What are the demographics of our current employees?: <br>
@@ -80,3 +80,4 @@ a. Employee ID: Unique employee record number used as a key across different dat
 b. Salary: Annual salary of the employee in USD
 
 
+#### Visit Project at: [Project Link](https://public.tableau.com/views/Project_16388725031150/GroupSizeandDemographics?:language=en-US&:display_count=n&:origin=viz_share_link)
