@@ -41,7 +41,7 @@ d) Is there some pattern related to employee groups?: <br>
 &nbsp; &nbsp; iv. Marital Status
 
 
-## About the Dataset
+## About the [Dataset](https://github.com/Simran-Kaur-9/HR-Data_Analytics/blob/main/HR_Data_Set.xlsx)
 1. General HR information gathered from the HR information system I <br>
 a. Employee ID: Unique employee record number used as a key across different databases <br>
 b. Position: Role the employee held <br>
